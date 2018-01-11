@@ -1,0 +1,16 @@
+.container {
+  background-color: #F78E69;
+  width: 100%;
+}
+.encabezado, .card-content {
+  margin-bottom: 0px;
+}
+.panda-uno {
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../img/uno.jpg");
+  background-color: #F78E69;
+
+
+}
